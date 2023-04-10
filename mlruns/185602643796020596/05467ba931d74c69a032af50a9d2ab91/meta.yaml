@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Python/Applied_ML/mlruns/185602643796020596/05467ba931d74c69a032af50a9d2ab91/artifacts
+end_time: 1681121665045
+entry_point_name: ''
+experiment_id: '185602643796020596'
+lifecycle_stage: active
+run_id: 05467ba931d74c69a032af50a9d2ab91
+run_name: KNN3
+run_uuid: 05467ba931d74c69a032af50a9d2ab91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681121643873
+status: 3
+tags: []
+user_id: spitzer

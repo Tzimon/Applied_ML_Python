@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Python/Applied_ML/mlruns/185602643796020596
+creation_time: 1681121274954
+experiment_id: '185602643796020596'
+last_update_time: 1681121274954
+lifecycle_stage: active
+name: KNN-Hyperparameter-Tuning
